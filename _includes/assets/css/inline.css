@@ -2,7 +2,10 @@
 	--primary: #c14e00;
 	--secondary: #c2a190;
 	--background: #FFFFFFF;
+	--pink: #f98adc;
+	--olive: #9e830f;
 }
+
 
 *, *:before, *:after {
   box-sizing: border-box;
@@ -79,12 +82,8 @@ pre {
 }
 
 /* Header Logo (style as h2) */
-header > em {
-	display: block;
-	font-size: 2em;
-	margin: .67em 0;
-	font-weight: bold;
-	font-style: normal;
+header{
+	text-align:center;
 }
 
 /* Header Nav */
@@ -209,21 +208,10 @@ button {
 body{
 	font-family: 'Sawarabi Mincho', sans-serif;
 }
-header{
-	background: #c14e00;
-}
 .headline{
 	font-family: 'kalakala';
 }
-.burnt-orange{
-  background: #c14e00;
-}
-.pink{
-  background: #f98adc;
-}
-.olive{
-  background: #9e830f;
-}
+
 .mixed-fonts span{
   font-family: 'kalakala';
 }
@@ -234,7 +222,7 @@ input[type="text"], textarea {
 }
 .submit-button{
   width: 100%;
-  color: #f98adc;
+  color: var(--pink);;
   background: #9e830f;
   padding: 20px;
   font-size: 30px;
@@ -395,7 +383,6 @@ h4 {
 a {
   color: inherit;
   text-decoration: none;
-  border-bottom: 2px solid #2e6fff;
 }
 
 a:hover, a:focus, a:active {
