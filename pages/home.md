@@ -1,18 +1,12 @@
 ---
 layout: layouts/home.njk
-title: Lisa is doing way too many things.
+title: Home
 date: 2016-01-01T00:00:00.000Z
 permalink: /
 eleventyNavigation:
   key: Home
   order: -1
 ---
-# What's she making now?
+#### Currently working on:<br/>Pattern Testing a ruffly blouse
 
-#### Currently working on:
-
-Pattern Testing a ruffly blouse
-
-<br/>
-
-<hr/>
+#### Finish by:<br/>Nov 8th
