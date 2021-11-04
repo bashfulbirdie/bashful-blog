@@ -4,6 +4,7 @@
 	--background: #e9ffae;
 	--pink: #f98adc;
 	--olive: #9e830f;
+  --border: #dbff86;
 }
 
 
@@ -20,9 +21,9 @@ body {
 
 body {
 	display: grid;
-	height: 100vh;
+  padding: 40px;
 	grid-template-rows: auto 1fr auto;
-	background-color: var(--background);
+	border: 25px solid var(--border);
 }
 
 main {
