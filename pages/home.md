@@ -7,6 +7,4 @@ eleventyNavigation:
   key: Home
   order: -1
 ---
-# Hello
-
-I'm documenting my projects here.
+## What's she making now?
