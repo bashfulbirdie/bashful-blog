@@ -22,13 +22,11 @@ body {
 
 body {
 	display: grid;
-  padding: 40px;
 	grid-template-rows: auto 1fr auto;
 	border: 25px solid var(--border);
 }
 
 main {
-	max-width: 37.5em;
   margin:auto;
 }
 
