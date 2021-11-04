@@ -6,15 +6,14 @@
 	<body>
 
 		<header>
-			<a href="{{ '/' | url }}"><img src="/static/img/quiltblock-02.png" style="width:150px;margin:auto;"/></a><br/>
-			<a href="{{ '/' | url }}"><img src="/static/img/logo.png" style="width:200px;margin:auto;"/></a>
+			<a href="{{ '/' | url }}" class="logo"><img src="/static/img/quiltblock-02.png" style="width:100px;margin:auto;"/></a>
+			<a href="{{ '/' | url }}" class="logo"><img src="/static/img/logo.png" style="width:200px;margin:auto;"/></a>
 			{% include "components/nav.njk" %}
 		</header>
 
 		<main>
 			{{ layoutContent | safe }}
 		</main>
-
 
 		{% include "components/footer.njk" %}
 
