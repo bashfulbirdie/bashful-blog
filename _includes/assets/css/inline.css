@@ -1,7 +1,7 @@
 :root {
 	--primary: #c14e00;
 	--secondary: #c2a190;
-	--background: #FFFFFFF;
+	--background: #e9ffae;
 	--pink: #f98adc;
 	--olive: #9e830f;
 }
@@ -27,6 +27,7 @@ body {
 
 main {
 	max-width: 37.5em;
+  margin:auto;
 }
 
 p,
@@ -37,7 +38,7 @@ code {
 
 a[href],
 a[href]:visited {
-	color: var(--primary);
+	color: var(--olive);
 }
 
 a[href]:not(:hover) {
@@ -114,6 +115,9 @@ header nav li a[data-current="current item"] {
 	background-color: white;
 }
 
+.text-center{
+  text-align: center;
+}
 /* Posts List */
 article {
 	margin-bottom: 1em;
