@@ -9,8 +9,10 @@ eleventyNavigation:
 ---
 # What's she making now?
 
-
-
 #### Currently working on:
 
 Pattern Testing a ruffly blouse
+
+<br/>
+
+<hr/>
