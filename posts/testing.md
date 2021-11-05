@@ -6,6 +6,8 @@ summary: I'm a mushroom now.
 tags:
   - post
 ---
+![](/static/img/screen-shot-2021-11-05-at-8.51.53-am.png)
+
 The mushroom cap is made with an umbrella and cardboard as the armature then it was covered in paper mache and painted. I used fabric for the gills. I balled up tissue and soaked it in the paper mache paste (flour and water) to make 3D spots on the top of the cap.
 
 The dress and collar are separate pieces and are made out of heavy linen from [fabrics-store.com](https://fabrics-store.com/). The dress is self drafted. The collar is from Simplicy 8620.
