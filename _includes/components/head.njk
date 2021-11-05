@@ -4,6 +4,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>{{ renderData.title or title or metadata.title }}</title>
   <meta name="description" content="{{ metaDescription or renderData.metaDescription or metadata.description }}">
+  <script src="https://kit.fontawesome.com/40b3a75219.js" crossorigin="anonymous"></script>
   <script async src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
   {% set css %}
     {% include "assets/css/inline.css" %}
@@ -13,8 +14,5 @@
     {% include "assets/js/inline.js" %}
   {% endset %}
   <script>{{ js | jsmin | safe }}</script>
-  
-  <link href="https://fonts.gstatic.com" rel="preconnect" />
-  <link href="https://fonts.googleapis.com/css?family=Sawarabi+Mincho|Suez+One|Work+Sans:300" rel="stylesheet">
   
 </head>
