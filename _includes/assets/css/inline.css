@@ -59,6 +59,13 @@ footer {
 	padding: 1em;
   background: #fff;
 }
+@media (min-width: 767px){
+footer{
+  display: flex !important;
+  justify-content: space-between;
+  align-items: center;
+}
+}
 
 main {
 	padding-bottom: 2em;
@@ -463,6 +470,10 @@ mark {
   margin: -.1em 0;
   color: #261e66;
   background: #2e6fff;
+}
+
+.social-icons{
+  font-size: 30px;
 }
 
 /* -----  1.4 Images & Figures  --------------------------------------------- */
