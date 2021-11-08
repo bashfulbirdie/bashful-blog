@@ -7,6 +7,4 @@ eleventyNavigation:
   key: Home
   order: -1
 ---
-#### Currently working on:<br/>Pattern Testing a ruffly blouse
-
-#### Finish by:<br/>Nov 8th
+#### hi
