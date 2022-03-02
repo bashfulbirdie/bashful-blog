@@ -9,7 +9,7 @@ eleventyNavigation:
   key: About
   order: 1
 ---
-Hello! I've been an artist and maker my whole life. After studying graphic design in 2011, I combined my love of sewing with my new love of illustration and began designing my own fabric to use in my sewing projects. In 2016, I started a business called [Bashful Birdie Handmade](http://bashfulbirdie.com/) where I sew products with my custom designed fabric. Currently, I'm working on a portfolio of paintings focused on artwork for children's books.
+Hello! I've been an artist and maker my whole life. After studying graphic design in 2011, I combined my love of sewing with my new love of illustration and began designing my own fabric to use in my sewing projects. In 2016, I started a business called *Bashful Birdie Handmade* where I sew products with my custom designed fabric. Currently, I'm working on a portfolio of paintings focused on artwork for children's books.
 
 ![lisa being a silly flower](/static/img/pxl_20201031_210821867.mp.jpg)
 
