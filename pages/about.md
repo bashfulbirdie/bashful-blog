@@ -13,4 +13,6 @@ Hello! I've been an artist and maker my whole life. After studying graphic desig
 
 I have always been heavily influenced by the psychedelic and nature focused art of the 60s and 70s as well as artists such as Mary Blair and Alexander Girard. My medium of choice is traditional gouache. Some of my hobbies include, sewing clothes for myself, torturing my family with my banjo playing, and growing cool and tasty plants in my garden.
 
+Find me on **[INSTAGRAM](https://www.instagram.com/bashfulbirdie/)**
+
 ![lisa being a silly flower](/static/img/pxl_20201031_210821867.mp.jpg)
