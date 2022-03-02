@@ -11,4 +11,4 @@ eleventyNavigation:
   key: Contact
   order: 3
 ---
-If you'd like to contact me for any reason, drop your name, email address and a message in the form below. I'll get back to you as soon as I have a moment.
+If you'd like to contact me for any reason, drop your name, email address and a message in the form below. I'll get back to you as soon as I have a moment. You can also find me on **[INSTAGRAM](https://www.instagram.com/bashfulbirdie/).**
