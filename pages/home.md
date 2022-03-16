@@ -7,4 +7,4 @@ eleventyNavigation:
   key: Home
   order: -1
 ---
-#### I'm a work in progress. Excuse the mess.
+![](/static/img/lisawork-01.jpg)
