@@ -7,4 +7,6 @@ eleventyNavigation:
   key: Home
   order: -1
 ---
+<h1>Hello!</h1>
+
 ![](/static/img/lisawork-01.jpg)
