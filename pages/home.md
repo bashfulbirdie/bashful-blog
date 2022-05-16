@@ -19,4 +19,12 @@ eleventyNavigation:
 
 <article><img src="/static/img/image-5.jpg"/></article>
 
+<article><img src="/static/img/image-6.jpg"/></article>
+
+<article><img src="/static/img/image-7.jpg"/></article>
+
+<article><img src="/static/img/image-8.jpg"/></article>
+
+<article><img src="/static/img/image-9.jpg"/></article>
+
 </section>
