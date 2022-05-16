@@ -7,6 +7,16 @@ eleventyNavigation:
   key: Home
   order: -1
 ---
-<h1>Hello!</h1>
+<section class="images articles">
 
-![](/static/img/lisawork-01.jpg)
+<article><img src="/static/img/image-1"/></article>
+
+<article><img src="/static/img/image-2"/></article>
+
+<article><img src="/static/img/image-3"/></article>
+
+<article><img src="/static/img/image-4"/></article>
+
+<article><img src="/static/img/image-5"/></article>
+
+</section>
