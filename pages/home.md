@@ -9,14 +9,14 @@ eleventyNavigation:
 ---
 <section class="images articles">
 
-<article><img src="/static/img/image-1"/></article>
+<article><img src="/static/img/image-1.jpg"/></article>
 
-<article><img src="/static/img/image-2"/></article>
+<article><img src="/static/img/image-2.jpg"/></article>
 
-<article><img src="/static/img/image-3"/></article>
+<article><img src="/static/img/image-3.jpg"/></article>
 
-<article><img src="/static/img/image-4"/></article>
+<article><img src="/static/img/image-4.jpg"/></article>
 
-<article><img src="/static/img/image-5"/></article>
+<article><img src="/static/img/image-5.jpg"/></article>
 
 </section>
