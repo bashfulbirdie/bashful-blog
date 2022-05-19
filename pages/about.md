@@ -15,6 +15,15 @@ I have always been heavily influenced by the psychedelic and nature focused ar
 
 <hr/>
 
+### **Education**
+
+Coastal Carolina University 2007-2011\
+BFA in Graphic Design
+
+### **Press**
+
+[Timeout: Lisa Cartrette](https://dribbble.com/stories/2018/02/06/timeout-lisa-cartrette) Interview with Dribbble
+
 ### **Notable Mentions**
 
 Lisa's pattern designs were featured in the 4th edition of the Surface Pattern Design Guide which is in [issue #49 of UPPERCASE Magazine](https://uppercasemagazine.com/products/uppercase-49-single-copy). The Surface Pattern Design Guide profiles 100 designers from all over the world.
